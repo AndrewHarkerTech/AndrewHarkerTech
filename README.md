@@ -1,7 +1,5 @@
 # Hello, I'm Andrew Harker
-<a href="(https://www.linkedin.com/in/andrew-harker-802a4b1a3/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[Brief Introduction - Remove this afterwards]
+<a href="https://www.linkedin.com/in/andrew-harker-802a4b1a3/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am an accomplished professional musician who has a passion for ITsec and CyberSecurity! I'm a graduate with a profound interest in technology and a dedication to solving complex problems.
 
