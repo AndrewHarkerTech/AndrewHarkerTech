@@ -44,12 +44,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="(https://img.shields.io/badge/Google%20Cybersecurity%20Cert%20V2-4285F4?style=for-the-badge&logo=google&logoColor=white)(.AndrewHarkerTech
-/GoogleCybersecurityProfessionalCertificateV2_Badge20250517-27-ehpk3p.pdf)
 
-<img src="https://img.shields.io/badge/Google%20Cybersecurity%20Cert%20V2-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<a href="https://www.credly.com/org/coursera/badge/google-cybersecurity-professional-certificate-v2/"><img src="https://img.shields.io/badge/Google%20Cybersecurity%20Cert%20V2-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
 
 </div>
