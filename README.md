@@ -13,8 +13,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://drive.google.com/drive/folders/1V6TL7yFRnlICelw9GnAnjD3eqZ7j5Jrz?dmr=1&ec=wgc-drive-hero-goto">Google Drive</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Azure HoneyPot (w/GeoIPmap)                   | <a href="https://drive.google.com/drive/folders/1V6TL7yFRnlICelw9GnAnjD3eqZ7j5Jrz?dmr=1&ec=wgc-drive-hero-goto">Google Drive</a>|
+| Remote Login and Log Data (Win/Mac)           | <a href="https://drive.google.com/drive/folders/1m7DiRcLlncUcX2munlUgfe_QZJbMieGm?dmr=1&ec=wgc-drive-hero-goto">Google Drive</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
